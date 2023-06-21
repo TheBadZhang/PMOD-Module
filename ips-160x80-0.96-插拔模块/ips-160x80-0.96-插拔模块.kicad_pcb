@@ -67,9 +67,9 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
@@ -177,6 +177,11 @@
         de1ec9e5-b542-43e5-923c-d803cb35bd7e
         ecce41a6-dcab-48f0-9f4f-259c2c9234cc
       )
+    )
+    (model "C:/Users/tbz/OneDrive/doc/kicad_3d/屏幕/0.96 - IPS LCD - No Glass - Reverse Mount.stp"
+      (offset (xyz 2.2 -0.1 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -547,7 +552,7 @@
       (net 14 "Net-(Q1-B)") (pinfunction "B") (pintype "input") (tstamp f23a058c-0849-4a26-839a-338e7c77d339))
     (pad "3" smd roundrect (at 1.1375 0) (size 1.325 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 13 "Net-(JP1-B)") (pinfunction "C") (pintype "passive") (tstamp c0de3541-f8ba-4fe0-84ca-e740bc7aff4f))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

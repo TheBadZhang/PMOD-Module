@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ips-160x80-0.96-插拔模块.step",
       "vrml": "ips-160x80-0.96-插拔模块.wrl"
     },
     "page_layout_descr_file": ""
