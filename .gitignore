@@ -1,2 +1,11 @@
+# 目录
 *-backups/
 fp-info-cache
+production/
+bom/
+
+
+# 文件
+*.step
+*.wrl
+*.pdf

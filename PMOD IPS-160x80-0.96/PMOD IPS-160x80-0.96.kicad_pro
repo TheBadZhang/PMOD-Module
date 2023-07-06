@@ -425,7 +425,7 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "ips-160x80-0.96-插拔模块.emn",
       "netlist": "",
       "specctra_dsn": "",
       "step": "ips-160x80-0.96-插拔模块.step",

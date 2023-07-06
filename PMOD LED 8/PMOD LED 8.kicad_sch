@@ -868,7 +868,7 @@
     (property "Sheetname" "pmod_io" (at 135.89 70.4084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "C:/Users/tbz/OneDrive/doc/kicad_schematic/pmod_io.kicad_sch" (at 135.89 100.9146 0)
+    (property "Sheetfile" "C:/Users/tbz/OneDrive/doc/kicad_schematic/pmod_gpio.kicad_sch" (at 135.89 100.9146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (pin "IO8" input (at 148.59 93.98 0)
